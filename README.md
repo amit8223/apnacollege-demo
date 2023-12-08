@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repo
 <br>
-auther - amit kaushik
+auther - amit kushik
